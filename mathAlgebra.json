@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "question": "What is the product of twice of 'a' and thrice of 'b'"?,
+      "description": "algebraic expression",
+      "answers": {
+        "answer_a": "ab",
+        "answer_b": "2ab",
+        "answer_c": "6ab",
+        "answer_d": "2a3b"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "false",
+        "answer_b_correct": "false",
+        "answer_c_correct": "true",
+        "answer_d_correct": "false"
+       },
+      "explanation": "2a x 3b simplifies to 6ab",
+      "tip": null,
+      "tags": [],
+      "category": "Algebra",
+      "difficulty": "Easy"
+    },
+    
+    {
+      "id": 2,
+      "question": "What is the constant term of 12 + 19a²b?",
+      "description": "algebraic expression",
+      "answers": {
+        "answer_a": "12",
+        "answer_b": "19",
+        "answer_c": "19a",
+        "answer_d": "a²b"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "true",
+        "answer_b_correct": "false",
+        "answer_c_correct": "false",
+        "answer_d_correct": "false"
+       },
+      "explanation": "The constant term of an expression is the term that does not contain any variable",
+      "tip": null,
+      "tags": [],
+      "category": "Algebra",
+      "difficulty": "Easy"
+    },
+
+    {
+        "id": 3,
+        "question": "What is the sum of -4pqr, 5pqr and 7pqr?",
+        "description": "algebraic expression",
+        "answers": {
+          "answer_a": "9pqr",
+          "answer_b": "-8pqr",
+          "answer_c": "16pqr",
+          "answer_d": "8pqr"
+        },
+        "multiple_correct_answers": "false",
+        "correct_answers": {
+          "answer_a_correct": "false",
+          "answer_b_correct": "false",
+          "answer_c_correct": "false",
+          "answer_d_correct": "true"
+         },
+        "explanation": "-4pqr + 5pqr + 7pqr = (5 - 4 + 7)pqr = 8pqr",
+        "tip": null,
+        "tags": [],
+        "category": "Algebra",
+        "difficulty": "Easy"
+    }
+]
