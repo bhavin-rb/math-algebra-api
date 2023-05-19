@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "question": "What is the product of twice of 'a' and thrice of 'b'"?,
+      "question": "What is the product of twice of 'a' and thrice of 'b'",
       "description": "algebraic expression",
       "answers": {
         "answer_a": "ab",
