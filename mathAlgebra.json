@@ -93,5 +93,102 @@
         "tags": [],
         "category": "Algebra",
         "difficulty": "Easy"
+    },
+
+    {
+      "id": 5,
+      "question": "Solve for x: 3x - 7 = 11",
+      "description": "linear equation",
+      "answers": {
+        "answer_a": "4",
+        "answer_b": "5",
+        "answer_c": "6",
+        "answer_d": "7"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "false",
+        "answer_b_correct": "false",
+        "answer_c_correct": "true",
+        "answer_d_correct": "false"
+      },
+      "explanation": "Add 7 to both sides to get 3x = 18. Divide both sides by 3 to get x = 6.",
+      "tip": null,
+      "tags": [],
+      "category": "Algebra",
+      "difficulty": "Intermediate"
+    },
+
+    {
+      "id": 6,
+      "question": "Factorize: x² + 7x + 12",
+      "description": "factorization",
+      "answers": {
+        "answer_a": "(x + 3)(x + 4)",
+        "answer_b": "(x + 2)(x + 6)",
+        "answer_c": "(x - 3)(x - 4)",
+        "answer_d": "(x + 1)(x + 12)"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "true",
+        "answer_b_correct": "false",
+        "answer_c_correct": "false",
+        "answer_d_correct": "false"
+      },
+      "explanation": "Two numbers whose product is 12 and whose sum is 7 are 3 and 4. Therefore x² + 7x + 12 = (x + 3)(x + 4).",
+      "tip": null,
+      "tags": [],
+      "category": "Algebra",
+      "difficulty": "Intermediate"
+    },
+
+    {
+      "id": 7,
+      "question": "If y = 4x + 1, find y when x = 3.",
+      "description": "substitution",
+      "answers": {
+        "answer_a": "9",
+        "answer_b": "11",
+        "answer_c": "13",
+        "answer_d": "15"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "false",
+        "answer_b_correct": "false",
+        "answer_c_correct": "true",
+        "answer_d_correct": "false"
+      },
+      "explanation": "Substitute x = 3 into y = 4x + 1. Therefore y = 4(3) + 1 = 13.",
+      "tip": null,
+      "tags": [],
+      "category": "Algebra",
+      "difficulty": "Intermediate"
+    },
+
+    {
+      "id": 8,
+      "question": "Simplify: 5(2x - 3)",
+      "description": "expanding brackets",
+      "answers": {
+        "answer_a": "10x - 15",
+        "answer_b": "10x - 3",
+        "answer_c": "7x - 15",
+        "answer_d": "10x + 15"
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_a_correct": "true",
+        "answer_b_correct": "false",
+        "answer_c_correct": "false",
+        "answer_d_correct": "false"
+      },
+      "explanation": "Distribute 5 to each term inside the bracket: 5 × 2x = 10x and 5 × -3 = -15.",
+      "tip": null,
+      "tags": [],
+      "category": "Algebra",
+      "difficulty": "Intermediate"
     }
+
 ]
