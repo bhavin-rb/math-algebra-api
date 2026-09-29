@@ -70,4 +70,28 @@
         "category": "Algebra",
         "difficulty": "Easy"
     }
+
+    {
+        "id": 4,
+        "question": "Simplify: 3x + 5x",
+        "description": "combining like terms",
+        "answers": {
+        "answer_a": "8",
+        "answer_b": "8x",
+        "answer_c": "15x",
+        "answer_d": "3x²"
+        },
+        "multiple_correct_answers": "false",
+        "correct_answers": {
+        "answer_a_correct": "false",
+        "answer_b_correct": "true",
+        "answer_c_correct": "false",
+        "answer_d_correct": "false"
+        },
+        "explanation": "3x and 5x are like terms. Add the coefficients: 3 + 5 = 8, therefore 3x + 5x = 8x.",
+        "tip": null,
+        "tags": [],
+        "category": "Algebra",
+        "difficulty": "Easy"
+    }
 ]
